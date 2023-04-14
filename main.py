@@ -20,8 +20,8 @@ else :
             print("Primo")
         else:
             print("Não primo")
-    else :
-        print("Não primo")
+    #else :
+        #print("Não primo")
 
 
 
